@@ -1,6 +1,8 @@
 # vuex
 #vuex的简单使用
-#本例子旨在vuex快速入门学习，大佬勿喷。如果本项目帮助到你，欢迎关注我的博客http://www.yyzhiqiu.com ，或者我的博客园地址https://www.cnblogs.com/yyzhiqiu/
+#本例子旨在vuex快速入门学习，大佬勿喷。
+#本项目共830kb，如果下载不了，请检查网络问题，或者使用码云下载。
+#如果本项目帮助到你，欢迎关注我的博客http://www.yyzhiqiu.com ，或者我的博客园地址https://www.cnblogs.com/yyzhiqiu/
 
 # blogs-8-14
 
